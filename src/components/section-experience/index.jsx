@@ -8,9 +8,9 @@ const SectionExperience = ({ experience }) => {
 
   return (
     <Section title="Experience">
-      {experience.map((item) => (
+      {experience.map((item, i) => (
         <SummaryItem
-          key={item.name}
+          key={i}
           name={item.name}
           description={item.description}
           link={item.link}

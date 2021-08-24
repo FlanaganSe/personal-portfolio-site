@@ -19,6 +19,8 @@ const Index = ({ data }) => {
   const skills = get(data, 'site.siteMetadata.skills', false);
   const noBlog = !posts || !posts.length;
 
+  console.log(experience);
+
   return (
     <Layout>
       <SEO />

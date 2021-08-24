@@ -1,58 +1,57 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Sean Flanagan',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Sean Flanagan | Software Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Software Developer based in Ann Arbor, MI!`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@flanagse`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/FlanaganSe`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/sean-flanagan-b25271b1/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I spent most of the past four years building Laptologist LLC before falling for the analytical side of software engineering. 
+    I can now be found building new projects and excitedly absorbing and learning as much as I can about software development. In my free time I love playing chess, exploring new technology, distance running, and skiing / snowboarding!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Twitter Clone',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A fully functional twitter clone built from scratch with a firebase database',
+        link: 'https://github.com/FlanaganSe/twitter-clone',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Mean Variance Optimizer',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Python optimizer for finding the kelly criterion. Can be used to calculate an optimal portfolio mix for given assets',
+        link: 'https://github.com/FlanaganSe/Mean-Variance-Project',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Tasteful Tees',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A node and express web app for a t-shirt retail site with an integrated mongoDB database',
+        link: 'https://github.com/FlanaganSe/t-shirt-crud',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Livegistics',
+        description: 'Software Developer, August 2020 - Present',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Laptologist LLC',
+        description: 'Founder, WordPress Dev, December 2016 - May 2020',
+        link: 'https://laptologist.com',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'UM Computer Showcase',
+        description: 'Tech and Sales Consultant',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +59,11 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), TypeScript, Python, ReactJS, Node.js, Express.js',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
-      },
-      {
-        name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+        name: 'Technologies',
+        description: 'MongoDB, PostgresQL, Google Firebase, Git, Adobe XD',
       },
     ],
   },
