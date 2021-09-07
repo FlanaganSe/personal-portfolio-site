@@ -17,6 +17,7 @@ const SEO = ({ description, lang, meta, title }) => {
       }
     `
   );
+  console.log(SEO);
 
   const metaDescription = description || site.siteMetadata.description;
   const defaultTitle = site.siteMetadata?.title;

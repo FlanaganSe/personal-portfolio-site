@@ -1,26 +1,23 @@
 import { graphql } from 'gatsby';
 import React from 'react';
-
 import Header from '../components/header';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import Now from "../components/now";
 
-const Index = ({ data }) => {
+const NowNowNow = ({ data }) => {
 
 
   return (
     <Layout>
       <SEO title="Now" />
       <Header metadata={data.site.siteMetadata} />
-      <h1>/Now</h1>
-      <h2>Inspired by Derek Sivers and his NowNowNow project. This is an updating page on my life and what I'm working on</h2>
-
-
+      <Now />
     </Layout>
   );
 };
 
-export default Index;
+export default NowNowNow;
 
 export const pageQuery = graphql`
   query {

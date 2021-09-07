@@ -15,8 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sean-flanagan-b25271b1/`,
     // Content of the About Me section
-    about: `I spent most of the past four years building Laptologist LLC before falling for the analytical side of software engineering. 
-    I can now be found building new projects and excitedly absorbing and learning as much as I can about software development. In my free time I love playing chess, exploring new technology, distance running, and skiing / snowboarding!`,
+    about: `Optimist with an entrepreneurial spirit. Founded and built Laptologist LLC, a product research company. Now working for Livegistics, a startup in Detroit MI. In my free time I love playing chess, exploring new technology, distance running, and skiing / snowboarding!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -43,29 +42,26 @@ module.exports = {
       {
         name: 'Livegistics',
         description: 'Software Developer, August 2020 - Present',
+        link: 'https://livegistics.com',
       },
       {
         name: 'Laptologist LLC',
         description: 'Founder, WordPress Dev, December 2016 - May 2020',
         link: 'https://laptologist.com',
       },
-      {
-        name: 'UM Computer Showcase',
-        description: 'Tech and Sales Consultant',
-      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
-    skills: [
-      {
-        name: 'Languages & Frameworks',
-        description:
-          'JavaScript (ES6+), TypeScript, Python, ReactJS, Node.js, Express.js',
-      },
-      {
-        name: 'Technologies',
-        description: 'MongoDB, PostgresQL, Google Firebase, Git, Adobe XD',
-      },
-    ],
+    // skills: [
+    //   {
+    //     name: 'Languages & Frameworks',
+    //     description:
+    //       'JavaScript (ES6+), TypeScript, Python, ReactJS, Node.js, Express.js',
+    //   },
+    //   {
+    //     name: 'Technologies',
+    //     description: 'MongoDB, PostgresQL, Google Firebase, Git, Adobe XD',
+    //   },
+    // ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
