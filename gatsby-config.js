@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sean-flanagan-b25271b1/`,
     // Content of the About Me section
-    about: `Optimist with an entrepreneurial spirit. Founded and built Laptologist LLC, a product research company. Now working for Livegistics, a startup in Detroit MI. In my free time I love playing chess, exploring new technology, distance running, and skiing / snowboarding!`,
+    about: `Pragmatic optimist with an entrepreneurial spirit. Previously founded and built the product research company Laptologist LLC. Now working for Livegistics, a startup in Detroit MI. In my free time I love playing chess, exploring new technology, distance running, and skiing / snowboarding!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
