@@ -9,13 +9,13 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Software Developer based in Ann Arbor, MI!`,
     // Optional: Twitter account handle
-    author: `@flanagse`,
+    // author: `@flanagse`,
     // Optional: Github account URL
     github: `https://github.com/FlanaganSe`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sean-flanagan-b25271b1/`,
     // Content of the About Me section
-    about: `Pragmatic optimist with an entrepreneurial side. Previously founded and built the product research company Laptologist LLC. Now a software developer at Livegistics in Detroit MI. In my free time I love playing chess, exploring new technology, rooting for Michigan Football (go blue!), distance running, and skiing & snowboarding!`,
+    about: `Pragmatic optimist with an entrepreneurial side. Previously graduated from the University of Michigan and built a product research company that assisted tens-of-thousands. Now a software developer at Livegistics in Detroit MI. In my free time I love playing chess, exploring new technology, rooting for Michigan Football (go blue!), distance running, and skiing & snowboarding!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {

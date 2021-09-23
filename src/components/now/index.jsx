@@ -6,7 +6,7 @@ const NowPosts = ({ posts }) => {
   return (
     <>
       <Section title="/Now">
-        <h1>Inspired by <a className="underline" href="https://sive.rs/">Derek Sivers</a>'s <a className="underline font-bold hover:opacity-75" href="https://nownownow.com/">NowNowNow</a> project. This is an informal page that I hope to continually update with what I'm doing at that point of my life.</h1>
+        <h1>Inspired by <a className="underline" href="https://sive.rs/">Derek Sivers</a>'s <a className="underline font-bold hover:opacity-75" href="https://nownownow.com/">NowNowNow</a> project. This is an informal page that I hope to continually update with goals and what I'm doing in life.</h1>
       </Section>
       <Section title="Sept 6, 2021">
         <ul>
