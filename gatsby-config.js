@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sean-flanagan-b25271b1/`,
     // Content of the About Me section
-    about: `Pragmatic optimist with an entrepreneurial side. Previously graduated from the University of Michigan and built a product research company that assisted tens-of-thousands. Now a software developer at Livegistics in Detroit MI. In my free time I love playing chess, exploring new technology, rooting for Michigan Football (go blue!), distance running, and skiing & snowboarding!`,
+    about: `Optimist, pragmatist,  who likes code, cats,    optimist with an entrepreneurial side. Previously graduated from the University of Michigan and built a product research company that assisted tens-of-thousands. Now a software developer at Livegistics in Detroit MI. In my free time I love playing chess, exploring new technology, rooting for Michigan Football (go blue!), distance running, and skiing & snowboarding!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -30,38 +30,32 @@ module.exports = {
           'Python optimizer for finding the kelly criterion. Can be used to calculate an optimal portfolio mix for given assets',
         link: 'https://github.com/FlanaganSe/Mean-Variance-Project',
       },
-      {
-        name: 'Tasteful Tees',
-        description:
-          'A node and express web app for a t-shirt retail site with an integrated mongoDB database',
-        link: 'https://github.com/FlanaganSe/t-shirt-crud',
-      },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
         name: 'Livegistics',
-        description: 'Software Developer, August 2020 - Present',
+        description: 'Software Developer, July 2021 - Present',
         link: 'https://livegistics.com',
       },
       {
         name: 'Laptologist LLC',
-        description: 'Founder, WordPress Dev, December 2016 - May 2020',
+        description: 'Founder & WordPress Dev, 2017 - May 2021',
         link: 'https://laptologist.com',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
-    // skills: [
-    //   {
-    //     name: 'Languages & Frameworks',
-    //     description:
-    //       'JavaScript (ES6+), TypeScript, Python, ReactJS, Node.js, Express.js',
-    //   },
-    //   {
-    //     name: 'Technologies',
-    //     description: 'MongoDB, PostgresQL, Google Firebase, Git, Adobe XD',
-    //   },
-    // ],
+    skills: [
+      {
+        name: "Life skills",
+        description:
+          "Being the first person cats run up to when entering a room, being one of the worst people to sing 'Imma Be' at Karaoke, never getting a cavity despite being addicted to candy.",
+      },
+      {
+        name: "Techologies I enjoy",
+        description: 'ReactJS, React Native, JavaScript, TypeScript, NoSQL databases, Node.JS, Ruby on Rails, and perhaps more',
+      },
+    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
