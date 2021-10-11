@@ -15,13 +15,13 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sean-flanagan-b25271b1/`,
     // Content of the About Me section
-    about: `Optimist, pragmatist,  who likes code, cats,    optimist with an entrepreneurial side. Previously graduated from the University of Michigan and built a product research company that assisted tens-of-thousands. Now a software developer at Livegistics in Detroit MI. In my free time I love playing chess, exploring new technology, rooting for Michigan Football (go blue!), distance running, and skiing & snowboarding!`,
+    about: `Optimist who likes coding, researching, and other similar activities. In my free time I love playing chess, exploring new technology, rooting for Michigan Football (go blue!), distance running, and skiing & snowboarding!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
         name: 'Twitter Clone',
         description:
-          'A fully functional twitter clone built from scratch with a firebase database',
+          'A functional twitter clone built from scratch with ReactJS and Google Firebase',
         link: 'https://github.com/FlanaganSe/twitter-clone',
       },
       {
@@ -49,7 +49,7 @@ module.exports = {
       {
         name: "Life skills",
         description:
-          "Being the first person cats run up to when entering a room, being one of the worst people to sing 'Imma Be' at Karaoke, never getting a cavity despite being addicted to candy.",
+          "Being the first person cats run up to when entering a room, never getting a cavity despite a candy addiction, getting the fastest 5th grader award in elemetary school. Wait is this section for serious technical skills?",
       },
       {
         name: "Techologies I enjoy",
