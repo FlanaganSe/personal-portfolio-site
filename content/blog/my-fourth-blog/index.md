@@ -1,7 +1,7 @@
 ---
 title: Rebalancing Bonus and Kelly Criterion
 date: '2021-10-19T12:00:00.00Z'
-description: 'Improving Investment Returns with the Kelly Criterion'
+description: 'Improving investment returns with the Kelly Criterion'
 ---
 
 _NOTE: This is a summary of 2020 research that has been put on hold. [Here's](https://github.com/FlanaganSe/Mean-Variance-Project) a github for generating the calculations. I may return to this project at a later date._
