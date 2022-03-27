@@ -1,6 +1,6 @@
 ---
 title: Rebalancing Bonus and Kelly Criterion
-date: '2021-07-19T12:00:00.00Z'
+date: '2021-10-19T12:00:00.00Z'
 description: 'Improving Investment Returns with the Kelly Criterion'
 ---
 

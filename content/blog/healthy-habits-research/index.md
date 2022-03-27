@@ -1,14 +1,14 @@
 ---
 title: Healthy Habits
-date: '2021-08-10T12:00:00.00Z'
+date: '2021-08-20T12:00:00.00Z'
 description: 'A researched list of healthy habits'
 ---
 
 ## Healthy Habits
 
-Health is a highly contentnious topic that is full of misinformation. A major issue seems to be that people are especially susceptible to the placebo effect when it comes to health products. It can be easy to become convinced that XYZ pill was a miracle that greatly improved one or more aspects of ones' life when the entire effect was likely the placebo effect. As a result it's difficult to comb through and find advice that is going to be valuable for most others.
+Health is a highly contentious topic that is full of misinformation. We're all susceptible to the placebo effect, especially when it comes to health products products, strategies, and mindsets. 
 
-This was a pragmatic and resaerch-based attempt to identify habits that are significantly likely to be healthy. ~50 hours of research in mid-2020 was put into creating this document.
+This was a pragmatic and research-based attempt to identify habits that are significantly likely to be healthy. The research has then been condensed and reformatted into a more easily readable format. 
 
 ## Daily Life Habits
 
@@ -25,8 +25,8 @@ Dieting is exceptionally controversial. While there are a lot of conflicting opi
 - Eat more veggies; cut-down on processed foods, added sugar, alcohol and animal fat
 - Home-cook more, use a variety of seasonings, drink water / tea / coffee
 - Maintaining low body fat may improve longterm health. Best accomplished by marginal calorie restriction
-- Attempting to restrict calories by adopting a fad diet or temporary diet (over a few months) can be detrimental for ones health. Rather than attempting a short-term diet, it is significantly better to work on improving ones' long-term diet.
-- Intermittant fasting is only worth considering if planning to maintain the eating pattern for years / decades. Its only value comes from the calorie restriction often accompanied with the diet.
+- Attempting to restrict calories by adopting a fad diet or temporary diet (over a few months) can be detrimental for ones health. Rather than attempting a short-term diet it is significantly better to work on improving ones' long-term diet.
+- Intermittant fasting is only worth considering if planning to maintain the eating pattern for years / decades. Its value comes from the calorie restriction often accompanied with the diet.
 
 ## Sleep
 
@@ -39,8 +39,8 @@ Dieting is exceptionally controversial. While there are a lot of conflicting opi
 
 ## Supplements
 
-While there are hundreds of supplements proclaiming astounding benefits the vast majority have little-to-no quality research backing them. The only legal supplements with substantial evidence I found include:
+While there are hundreds of supplements proclaiming astounding benefits the vast majority have little-to-no quality research backing them. Some easily available suppements with substantial evidence includes: 
 
-- Exercise: Whey Protein Powder, Creatine, Beta Alanine, Caffeine
+- Exercise: Whey Protein, Creatine, Caffeine
 - Vitamins: Vitamin D, Magnesium, Fish Oil (only beneficial if diet is deficient)
-- Sleep: Melatonin (0.1 - 0.5 mg taken ~30 minutes before sleep)
+- Sleep: Melatonin (~0.3mg, little risk of dependency in adults)

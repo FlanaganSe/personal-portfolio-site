@@ -59,7 +59,7 @@ Elaborative interrogation: Self-questioning (asking why?) or self-explanation (e
 
 ## Improving Productivity
 
-Improving productivity is all about eliminating bottlenecks, such as multi-tasking, distractions, or psychological factors
+Improving productivity is largely about eliminating bottlenecks, such as multi-tasking, distractions, or psychological factors
 
 - Find ways to create deadlines; both short deadlines (hours / days) and long-term (weeks, months, or years)
 

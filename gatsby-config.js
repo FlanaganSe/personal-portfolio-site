@@ -5,25 +5,19 @@ module.exports = {
     // Your Name
     name: 'Sean Flanagan',
     // Main Site Title
-    title: `Sean Flanagan | Software Developer`,
+    title: `Sean Flanagan | Software Dev`,
     // Description that goes under your name in main bio
-    description: `Software Developer based in Ann Arbor, MI!`,
+    description: `Software Dev in Ann Arbor, MI`,
     // Optional: Twitter account handle
-    // author: `@flanagse`,
+    author: `@flanagse`,
     // Optional: Github account URL
     github: `https://github.com/FlanaganSe`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sean-flanagan-b25271b1/`,
     // Content of the About Me section
-    about: `Optimist who likes coding, researching, and other similar activities. In my free time I love playing chess, exploring new technology, rooting for Michigan Football (go blue!), distance running, and skiing & snowboarding!`,
+    about: `Optimist who likes coding, research, chess, Michigan athletics (go blue!), distance running, and skiing!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
-      {
-        name: 'Twitter Clone',
-        description:
-          'A functional twitter clone built from scratch with ReactJS and Google Firebase',
-        link: 'https://github.com/FlanaganSe/twitter-clone',
-      },
       {
         name: 'Mean Variance Optimizer',
         description:
@@ -31,29 +25,16 @@ module.exports = {
         link: 'https://github.com/FlanaganSe/Mean-Variance-Project',
       },
     ],
-    // Optional: List your experience, they must have `name` and `description`. `link` is optional.
-    experience: [
-      {
-        name: 'Livegistics',
-        description: 'Software Developer, July 2021 - Present',
-        link: 'https://livegistics.com',
-      },
-      {
-        name: 'Laptologist LLC',
-        description: 'Founder & WordPress Dev, 2017 - May 2021',
-        link: 'https://laptologist.com',
-      },
-    ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: "Life skills",
         description:
-          "Being the first person cats run up to when entering a room, never getting a cavity despite a candy addiction, getting the fastest 5th grader award in elemetary school. Wait is this section for serious technical skills?",
+          "Being the first person cats run up to when entering a room, never getting a cavity despite a candy addiction, getting the fastest 5th grader award in elemetary school. Hmmm I may be missing some but that should cover my main skills...",
       },
       {
-        name: "Techologies I enjoy",
-        description: 'ReactJS, React Native, JavaScript, TypeScript, NoSQL databases, Node.JS, Ruby on Rails, and perhaps more',
+        name: "Technologies I enjoy",
+        description: `I love React and Typescript! Otherwise I don't have any ringing passions and will work with whatever tech needs to be used to best build the app at hand.`,
       },
     ],
   },
