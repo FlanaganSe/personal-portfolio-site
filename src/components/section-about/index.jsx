@@ -26,7 +26,7 @@ const SectionAbout = () => {
         <ul>
           <li className={classes.listItem}>Some people I love include <a target="_blank" rel="noreferrer" className={classes.link} href={'https://blog.samaltman.com/'}>Sam Altman</a> and <a target="_blank" rel="noreferrer" className={classes.link} href={'https://sive.rs/'}>Derek Sivers</a>
           </li>
-          <li className={classes.listItem}>I love the shows <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.imdb.com/title/tt0417299/'}>Avatar: TLA</a> and <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.imdb.com/title/tt2560140/'}>Attack on Titan</a>
+          <li className={classes.listItem}>I'm a huge fan of the shows <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.imdb.com/title/tt0417299/'}>Avatar: TLA</a> and <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.imdb.com/title/tt2560140/'}>Attack on Titan</a>
           </li>
           <li className={classes.listItem}>My favorite book ever is <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.goodreads.com/book/show/43314707-unfollow'}>Unfollow by Megan Phelps-Roper</a> about her journey leaving the Westboro Baptist Church
           </li>
