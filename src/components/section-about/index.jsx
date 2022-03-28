@@ -19,7 +19,7 @@ const SectionAbout = () => {
           </li>
           <li className={classes.listItem}>I'm a huge fan of the shows <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.imdb.com/title/tt0417299/'}>Avatar: TLA</a> and <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.imdb.com/title/tt2560140/'}>Attack on Titan</a>
           </li>
-          <li className={classes.listItem}>My favorite book ever is <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.goodreads.com/book/show/43314707-unfollow'}>Unfollow by Megan Phelps-Roper</a> about Megan's life and journey leaving the Westboro Baptist Church
+          <li className={classes.listItem}>My favorite book ever is <a target="_blank" rel="noreferrer" className={classes.link} href={'https://www.goodreads.com/book/show/43314707-unfollow'}>Unfollow: A Memoire by Megan Phelps-Roper</a> about her life and journey separating from the Westboro Baptist Church
           </li>
         </ul>
 

@@ -30,7 +30,7 @@ module.exports = {
       {
         name: "Life skills",
         description:
-          "Being the first person cats run up to when entering a room, never getting a cavity despite a candy addiction, getting the fastest 5th grader award in elemetary school. Hmmm I may be missing some but that should cover my main skills...",
+          "Being the first person cats run up to when entering a room, never getting a cavity despite a candy addiction, being the fastest 5th grader in my elementary school class. Hmmm I may be missing some but that should cover my main skills...",
       },
       {
         name: "Technologies I enjoy",
