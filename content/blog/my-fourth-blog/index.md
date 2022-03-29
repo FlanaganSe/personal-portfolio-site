@@ -1,31 +1,31 @@
 ---
 title: Rebalancing Bonus and Kelly Criterion
-date: '2021-10-19T12:00:00.00Z'
+date: '2022-03-19T12:00:00.00Z'
 description: 'Improving investment returns with the Kelly Criterion'
 ---
 
-_NOTE: This is a summary of 2020 research that has been put on hold. [Here's](https://github.com/FlanaganSe/Mean-Variance-Project) a github for generating the calculations. I may return to this project at a later date._
+_NOTE: This project is on hold but will be returned to at a later date. [Here's](https://github.com/FlanaganSe/Mean-Variance-Project) a github for generating the calculations.
 
 ## Improving returns with the Kelly Criterion
 
-The Kelly Criterion is a concept in probability theory for determining optimal sizes for bets. When applied to financial markets the theory, even when used poorly, may be able to improve long-term returns. One easy strategy for this is via adaptive asset allocation and a best-attempt at constantly re-calculating the kelly criterion.
+The Kelly criterion is a formula in probability theory for determining optimal sizes for bets. When applied to financial markets the concept, even when used poorly, may be able to improve long-term returns. One strategy for this focuses on adaptive asset allocation based on a Kelly criterion-calculated portfolio using a best-estimate of future market conditions. 
 
 ### How is this done?
 
 1. Choose non-correlating assets
 2. Predict returns, correlations, and standard deviations for each asset
-3. Use the Kelly Criterion to calculate the optimal portfolio
+3. Formulaically calculate the Kelly criterion based on the assets for an optimal portfolio 
 4. Recalculate and rebalance as market conditions change
 
 ## Does this work?
 
 Cannot say for sure -- using past results to predict the future is a near-futile effort.
 
-The bread-and-butter of the strategy comes from the predictability of asset standard deviations and correlations. Both exhibit momentum and can be reasonably predicted using recent historical data. Leverage can then be applied during periods of favorable market conditions (strong negative correlations / low volatility) and vice-versa for unfavorable market conditions.
+The bread-and-butter of the strategy comes from the predictability of asset standard deviations and correlations. Both exhibit momentum and can be predicted with above-random accuracy using recent historical data. Leverage can then be applied during periods of favorable market conditions (strong negative correlations / low volatility) and vice-versa for unfavorable market conditions.
 
-The benefit of this type of strategy mainly comes from its down-side protection. Unless you are leveraging then the strategy will likely underperform during bull markets but should fall far less during recessions / market crashes.
+A major benefit of this strategy compared to a near 100% equities portfolio is greater downturn protection. Simply by matter of using non-correlating assets this portfolio should perform better, at a given level of risk, compared to an all-equities portfolio. Because risk is relatively lower, leverage can then be applied if ones' risk tolerance finds a 100% equities portfolio to be palatable. 
 
-## Good Assets:
+## Key Assets:
 
 - Non-Leveraged: VTI (US Market); VGLT (19Y bond); GLDM (Gold)
 - Leveraged: UPRO (3x S&P); TMF (3x TLT)
@@ -38,7 +38,7 @@ The benefit of this type of strategy mainly comes from its down-side protection.
 
 - Research: Equities markets have had daily mean reversion since 2000 but show 10-month momentum. May be worth considering raising / lowering return estimates based on these factors.
 
-**TLT:** Equal to current treasury yeild rate.
+**TLT:** Equal to current treasury yield rate.
 
 - Research: When yields are under 3% it may be better to predict returns slightly lower than current yields
 
