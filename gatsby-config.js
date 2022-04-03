@@ -30,7 +30,7 @@ module.exports = {
       {
         name: "Life skills",
         description:
-          "Being the first person cats run up to when entering a room, never getting a cavity despite a candy addiction, being the fastest 5th grader in my elementary school class. Hmmm I may be missing some but that should cover my main skills...",
+          "Being the first person cats run up to when entering a room, never getting a cavity despite a candy addiction, being the fastest 5th grader in my class. Hmmm I may be missing some but that should cover my main skills...",
       },
       {
         name: "Technologies I enjoy",
@@ -82,9 +82,13 @@ module.exports = {
     `gatsby-plugin-postcss`,
     `gatsby-plugin-feed`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: `ADD YOUR TRACKING ID HERE`, // Optional Google Analytics
+        trackingIds: ["G-TC0RDBMM4D"],
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: true,
+        },
       },
     },
     {

@@ -4,7 +4,7 @@ date: '2022-03-19T12:00:00.00Z'
 description: 'Improving investment returns with the Kelly Criterion'
 ---
 
-_NOTE: This project is on hold but will be returned to at a later date. [Here's](https://github.com/FlanaganSe/Mean-Variance-Project) a github for generating the calculations.
+NOTE: This project is on hold but will be returned to at a later date. [Here's](https://github.com/FlanaganSe/Mean-Variance-Project) a github for generating the calculations.
 
 ## Improving returns with the Kelly Criterion
 
