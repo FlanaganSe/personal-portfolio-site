@@ -8,7 +8,7 @@ import {
   useNavigation,
   useSubmit,
 } from "react-router-dom";
-import { createContact, getContacts } from "../contracts";
+import { createContact, getContacts } from "./src/contracts";
 import { useEffect } from "react";
 
 export async function action() {
