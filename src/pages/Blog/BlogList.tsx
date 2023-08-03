@@ -1,4 +1,3 @@
-// const Home = (props: Props) => {
 export const BlogList = () => {
   return (
     <div>
