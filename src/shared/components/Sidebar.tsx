@@ -4,30 +4,23 @@ import GithubIcon from "../../assets/github.svg";
 import MailIcon from "../../assets/mail.svg";
 import LinkedInIcon from "../../assets/linkedin.svg";
 
-const classes = {
-  container:
-    "border-r-2 flex flex-col justify-between border-dotted h-full py-10",
-  navContainer: "flex flex-col font-bold text-gray-400 space-y-4 text-lg",
-  navLink: "pl-8",
-};
-
 export const Sidebar = () => {
   return (
-    <div className={classes.container}>
-      <ul className={classes.navContainer}>
+    <div className="border-r-2 flex flex-col justify-between border-dotted h-full py-10 pr-6">
+      <ul className={"flex flex-col font-bold text-gray-400 space-y-4 text-lg"}>
         <NavLink to={"/"} className="m-8">
           <img src={SFLogo} alt="Sean Flanagan logo" className={"size-16"} />
         </NavLink>
-        <NavLink to={"/"} className={classes.navLink}>
+        <NavLink to={"/"} className="pl-8">
           <div>About</div>
         </NavLink>
-        <NavLink to={"resume"} className={classes.navLink}>
+        <NavLink to={"resume"} className="pl-8">
           <div>Resume</div>
         </NavLink>
-        <NavLink to={"projects"} className={classes.navLink}>
+        <NavLink to={"projects"} className="pl-8">
           <div>Projects</div>
         </NavLink>
-        <NavLink to={"blog"} className={classes.navLink}>
+        <NavLink to={"blog"} className="pl-8">
           <div>Blog</div>
         </NavLink>
       </ul>

@@ -15,4 +15,11 @@
 }
 
 @layer utilities {
+  h1 {
+    @apply text-3xl tracking-wide text-gray-800 my-4 font-bold;
+  }
+
+  .dotted-border {
+    @apply border-t-2 border-gray-300 border-dotted;
+  }
 }
