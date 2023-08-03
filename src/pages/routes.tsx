@@ -3,8 +3,8 @@ import ErrorPage from "./Error/Error";
 import { About } from "./About/About";
 import { Root } from "./Root/Root";
 import { Resume } from "./Resume/Resume";
-import { BlogList } from "./Blog/BlogList";
-import { BlogPost } from "./Blog/BlogPost";
+import { BlogList } from "./Blogs/BlogList";
+import { BlogPost } from "./Blogs/BlogPost";
 import { Projects } from "./Projects/Projects";
 
 export const router = createBrowserRouter([

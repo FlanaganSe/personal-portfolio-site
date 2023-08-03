@@ -1,8 +1,8 @@
 import { NavLink } from "react-router-dom";
-import SFLogo from "../../assets/sf-logo.png";
-import GithubIcon from "../../assets/github.svg";
-import MailIcon from "../../assets/mail.svg";
-import LinkedInIcon from "../../assets/linkedin.svg";
+import SFLogo from "@assets/images/sf-logo.png";
+import GithubIcon from "@assets/images/github.svg";
+import MailIcon from "@assets/images/mail.svg";
+import LinkedInIcon from "@assets/images/linkedin.svg";
 
 export const Sidebar = () => {
   return (

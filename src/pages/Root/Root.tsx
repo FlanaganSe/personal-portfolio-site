@@ -8,7 +8,7 @@ export const Root = () => {
       <div className="flex-none">
         <Sidebar />
       </div>
-      <div className="flex flex-col flex-1 h-full justify-between p-4 pt-16 md:px-[10%]">
+      <div className="flex flex-col flex-1 h-full justify-between p-4 pt-16 md:mx-[10%] max-w-[1200px]">
         <div className="h-auto">
           <Outlet />
         </div>
