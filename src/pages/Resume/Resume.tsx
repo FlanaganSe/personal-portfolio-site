@@ -1,5 +1,6 @@
 const classes = {
   listItem: "list-disc",
+  sectionHeading: "text-xl pt-4",
 };
 
 export const Resume = () => {
@@ -41,7 +42,9 @@ export const Resume = () => {
       </h3>
       <div>
         <div>
-          <h2 className="pt-4 border-t-2 border-gray-500 border-dotted">
+          <h2
+            className={`${classes.sectionHeading} pt-4 border-t-2 border-gray-300 border-dotted`}
+          >
             Work Experience
           </h2>
           <ul>
@@ -50,24 +53,36 @@ export const Resume = () => {
           </ul>
         </div>
         <div>
-          <h2 className="pt-4">Personal Projects</h2>
+          <h2 className={classes.sectionHeading}>Personal Projects</h2>
           <ul>
             <li>Item 1</li>
             <li>Item 2</li>
           </ul>
         </div>
         <div>
-          <h2 className="pt-4">Education</h2>
+          <h2 className={classes.sectionHeading}>Education</h2>
           <ul>
             <li>Item 1</li>
             <li>Item 2</li>
           </ul>
         </div>
         <div>
-          <h2 className="pt-4">Skills</h2>
+          <h2 className={classes.sectionHeading}>Skills</h2>
           <ul>
-            <li>Item 1</li>
-            <li>Item 2</li>
+            <li className={classes.listItem}>
+              <strong>Languages:</strong> Javascript, CSS3, Python, SQL
+            </li>
+            <li className={classes.listItem}>
+              <strong>Frameworks:</strong> Typescript, React Native, NodeJS,
+              Express, Google Firebase, PostgreSQL
+            </li>
+            <li className={classes.listItem}>
+              <strong>Deployment:</strong> Github Actions, CircleCI, AWS
+            </li>
+            <li className={classes.listItem}>
+              <strong>Tools:</strong> Git, GCP, Swagger, Docker, Git, CircleCI,
+              New Relic
+            </li>
           </ul>
         </div>
       </div>
