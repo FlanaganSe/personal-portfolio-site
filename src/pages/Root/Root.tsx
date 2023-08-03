@@ -4,10 +4,10 @@ import { Outlet } from "react-router-dom";
 export const Root = () => {
   return (
     <div className="h-screen m-0 flex">
-      <div className="flex-none bg-background">
+      <div className="flex-none ">
         <Sidebar />
       </div>
-      <div className="flex-1 bg-red-100">
+      <div className="flex-1">
         <Outlet />
       </div>
     </div>

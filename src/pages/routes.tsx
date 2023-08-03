@@ -8,6 +8,9 @@ import ErrorPage from "./Error/Error";
 // import Root, { action as rootAction } from "./index";
 import { About } from "./About/About";
 import { Root } from "./Root/Root";
+import { Resume } from "./Resume/Resume";
+import { BlogList } from "./Blog/BlogList";
+import { BlogPost } from "./Blog/BlogPost";
 // import { loader } from "../utils/loader";
 // import { action as destroyAction } from "./Contact/DestroyContact";
 // import Index from "./index";
@@ -21,6 +24,18 @@ export const router = createBrowserRouter([
       {
         index: true,
         element: <About />,
+      },
+      {
+        path: "/resume",
+        element: <Resume />,
+      },
+      {
+        path: "blog",
+        element: <BlogList />,
+      },
+      {
+        path: "blog/:blogId",
+        element: <BlogPost />,
       },
     ],
   },
