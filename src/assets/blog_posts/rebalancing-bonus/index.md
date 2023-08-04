@@ -1,20 +1,14 @@
----
-title: Rebalancing Bonus and Kelly Criterion
-date: '2022-03-19T12:00:00.00Z'
-description: 'Improving investment returns with the Kelly Criterion'
----
-
 NOTE: This project is on hold but will be returned to at a later date. [Here's](https://github.com/FlanaganSe/Mean-Variance-Project) a github for generating the calculations.
 
 ## Improving returns with the Kelly Criterion
 
-The Kelly criterion is a formula in probability theory for determining optimal sizes for bets. When applied to financial markets the concept, even when used poorly, may be able to improve long-term returns. One strategy for this focuses on adaptive asset allocation based on a Kelly criterion-calculated portfolio using a best-estimate of future market conditions. 
+The Kelly criterion is a formula in probability theory for determining optimal sizes for bets. When applied to financial markets the concept, even when used poorly, may be able to improve long-term returns. One strategy for this focuses on adaptive asset allocation based on a Kelly criterion-calculated portfolio using a best-estimate of future market conditions.
 
 ### How is this done?
 
 1. Choose non-correlating assets
 2. Predict returns, correlations, and standard deviations for each asset
-3. Formulaically calculate the Kelly criterion based on the assets for an optimal portfolio 
+3. Formulaically calculate the Kelly criterion based on the assets for an optimal portfolio
 4. Recalculate and rebalance as market conditions change
 
 ## Does this work?
@@ -23,7 +17,7 @@ Cannot say for sure -- using past results to predict the future is a near-futile
 
 The bread-and-butter of the strategy comes from the predictability of asset standard deviations and correlations. Both exhibit momentum and can be predicted with above-random accuracy using recent historical data. Leverage can then be applied during periods of favorable market conditions (strong negative correlations / low volatility) and vice-versa for unfavorable market conditions.
 
-A major benefit of this strategy compared to a near 100% equities portfolio is greater downturn protection. Simply by matter of using non-correlating assets this portfolio should perform better, at a given level of risk, compared to an all-equities portfolio. Because risk is relatively lower, leverage can then be applied if ones' risk tolerance finds a 100% equities portfolio to be palatable. 
+A major benefit of this strategy compared to a near 100% equities portfolio is greater downturn protection. Simply by matter of using non-correlating assets this portfolio should perform better, at a given level of risk, compared to an all-equities portfolio. Because risk is relatively lower, leverage can then be applied if ones' risk tolerance finds a 100% equities portfolio to be palatable.
 
 ## Key Assets:
 

@@ -1,21 +1,19 @@
-export const getPostMetaData = async () => {
-  //   const files = await import.meta.glob(
-  //     "../assets/blog_posts/effective-learning/index.md"
-  //   );
-  const markdownFiles = await import.meta.glob("../assets/blog_posts/**/*.md");
+export const getAllBlogAttributes = async () => {
+  const markdownFilesRes = await import.meta.glob(
+    "../assets/blog_posts/**/*.md"
+  );
 
-  console.log("files");
+  const markdownFiles = Object.entries(markdownFilesRes).map((markdownFile) => {
+    const markdownDir = markdownFile[0].split("/");
+    return markdownDir[markdownDir.length - 2];
+  }) as string[];
+
   console.log(markdownFiles);
-  //   const content = (
-  //     await import(`../assets/blog_posts/effective-learning/index.md?raw`)
-  //   ).default;
 
-  //   console.log("hi");
-  //   console.log(content);
+  const content = (
+    await import(`../assets/blog_posts/${markdownFiles[0]}/index.md?raw`)
+  ).default;
 
-  //   const folder = "constants/blog_posts";
-  //   const files = fs.readdirSync(folder);
-  //   const markdownPosts = files.filter((file) => file.endsWith(".md"));
-  //   const slugs = markdownPosts.map((file) => file.replace(".md", ""));
-  //   return slugs;
+  console.log("CONTENT");
+  console.log(content);
 };
