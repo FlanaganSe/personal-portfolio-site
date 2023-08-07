@@ -1,3 +1,7 @@
+/**
+ * @param {string} path
+ * @return {string[]}
+ */
 export const getAllBlogAttributes = async () => {
   const markdownFilesRes = await import.meta.glob(
     "../assets/blog_posts/**/*.md"
@@ -16,4 +20,15 @@ export const getAllBlogAttributes = async () => {
 
   console.log("CONTENT");
   console.log(content);
+};
+
+/**
+ * @param {string} path
+ * @return {string}
+ */
+export const getBlogPost = async (path: string) => {
+  const content = (await import(`../assets/blog_posts/${path}/index.md?raw`))
+    .default;
+
+  return content;
 };

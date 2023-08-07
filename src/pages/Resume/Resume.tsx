@@ -87,7 +87,7 @@ export const Resume = () => {
                 href="https://flanaganse.github.io/twitter-clone/"
                 className={"underline"}
               >
-                Preview Live
+                On Github
               </a>
             </h3>
           </div>

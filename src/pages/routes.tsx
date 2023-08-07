@@ -4,7 +4,7 @@ import { About } from "./About/About";
 import { Root } from "./Root/Root";
 import { Resume } from "./Resume/Resume";
 import { BlogList } from "./Blogs/BlogList";
-import { BlogPost } from "./Blogs/BlogPost";
+import { ViewBlog } from "./ViewBlog/ViewBlog";
 import { Projects } from "./Projects/Projects";
 
 export const router = createBrowserRouter([
@@ -31,7 +31,7 @@ export const router = createBrowserRouter([
       },
       {
         path: "blog/:blogId",
-        element: <BlogPost />,
+        element: <ViewBlog />,
       },
     ],
   },

@@ -10,7 +10,7 @@ export const BlogList = () => {
       id: "123213345",
       name: "Some name",
       description: "Some desc",
-      url: "google.com",
+      url: "effective-learning",
       date: "Dec 13, 2023",
     },
     {
