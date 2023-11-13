@@ -1,12 +1,6 @@
----
-title: Strategies for effective learning
-date: '2021-09-01T12:00:00.00Z'
-description: 'Researching strategies for more effective learning'
----
-
 Information on effective learning strategies. This information comes almost entirely from the book [Make It Stick](https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M/) by Peter Brown and [Improving Students' Learning with Effective Learning Techniques](https://pcl.sitehost.iu.edu/rgoldsto/courses/dunloskyimprovinglearning.pdf), a meta-study by the Association for Psychological Science.
 
-## Highly Effective Strategies
+### Highly Effective Strategies
 
 #### Spaced Repetition
 
@@ -20,7 +14,7 @@ Information on effective learning strategies. This information comes almost enti
 
 Elaborative interrogation: Self-questioning (asking why?) or self-explanation (explaining details to yourself) is a simple form of self-testing and can improve recall. Learning by “doing” is also a form of testing by forcing you to recall and use your knowledge.
 
-## Moderately Effective Strategies:
+### Moderately Effective Strategies:
 
 #### Interleaving
 
@@ -32,7 +26,7 @@ Elaborative interrogation: Self-questioning (asking why?) or self-explanation (e
 - Summarizing, especially by self-explanation / active recall can improve learning.
 - How to apply: After finishing a section, attempt to write a summary and go back and fill in gaps. The cornell note-taking method incorporates this strategy.
 
-## Questionable Strategies
+### Questionable Strategies
 
 #### Re-reading
 
@@ -57,7 +51,7 @@ Elaborative interrogation: Self-questioning (asking why?) or self-explanation (e
 
 - The human brain has a switching-cost when changing its focus to a new task
 
-## Improving Productivity
+### Improving Productivity
 
 Improving productivity is largely about eliminating bottlenecks, such as multi-tasking, distractions, or psychological factors
 

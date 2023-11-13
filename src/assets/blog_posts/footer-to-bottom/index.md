@@ -1,12 +1,6 @@
----
-title: Forcing the footer to the bottom of the page
-date: '2021-09-19T12:00:00.00Z'
-description: 'A flexible approach for pushing the footer to the bottom of the page'
----
-
 When searching for a simple method to keep push a footer to the bottom of a page, most approaches I found were either hacky or required hard-coding the height of the filter / main content to work well.
 
-![Footer not on bottom](./footer-not-bottom.png)
+![Footer not on bottom](/blog-images/footer-not-bottom.png)
 
 However one simple solution can be achieved by assigning the flex css property on the parent element of the footer and setting the previous-child's margin bottom to auto.
 
@@ -35,4 +29,4 @@ main {
 
 This achieves the desired output. The solution is dynamic, flexible, and does not result in a sticky footer. If the content takes up over 100% of the viewport height than the footer is simply pushed below any content on the page.
 
-![Footer on bottom](./footer-on-bottom.png)
+![Footer on bottom](/blog-images/footer-on-bottom.png)

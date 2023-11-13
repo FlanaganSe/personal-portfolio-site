@@ -1,14 +1,8 @@
----
-title: Healthy Habits
-date: '2021-08-20T12:00:00.00Z'
-description: 'A researched list of healthy habits'
----
-
 ## Healthy Habits
 
-Health is a highly contentious topic that is full of misinformation. We're all susceptible to the placebo effect, especially when it comes to health products products, strategies, and mindsets. 
+Health is a highly contentious topic that is full of misinformation. We're all susceptible to the placebo effect, especially when it comes to health products products, strategies, and mindsets.
 
-This was a pragmatic and research-based attempt to identify habits that are significantly likely to be healthy. The research has then been condensed and reformatted into a more easily readable format. 
+This was a pragmatic and research-based attempt to identify habits that are significantly likely to be healthy. The research has then been condensed and reformatted into a more easily readable format.
 
 ## Daily Life Habits
 
@@ -39,7 +33,7 @@ Dieting is exceptionally controversial. While there are a lot of conflicting opi
 
 ## Supplements
 
-While there are hundreds of supplements proclaiming astounding benefits the vast majority have little-to-no quality research backing them. Some easily available suppements with substantial evidence includes: 
+While there are hundreds of supplements proclaiming astounding benefits the vast majority have little-to-no quality research backing them. Some easily available suppements with substantial evidence includes:
 
 - Exercise: Whey Protein, Creatine, Caffeine
 - Vitamins: Vitamin D, Magnesium, Fish Oil (only beneficial if diet is deficient)

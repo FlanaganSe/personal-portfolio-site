@@ -1,17 +1,17 @@
 import { Link } from "react-router-dom";
 
-export const SummaryItem = ({ name, description, url, date }) => {
+export const SummaryItem = ({ title, description, path, date }) => {
   return (
     <div className="mb-6">
       <div className="flex justify-between">
         <h3
           className={`font-semibold text-gray-900 pb-1 ${
-            url ? "hover:underline" : ""
+            path ? "hover:underline" : ""
           }`}
         >
-          <Link to={url}>{name}</Link>
+          <Link to={path}>{title}</Link>
         </h3>
-        <h3 className="text-gray-600">{date}</h3>
+        <h3 className="text-gray-600">{date.toDateString()}</h3>
       </div>
       <p className="text-md text-gray-600 font-light">{description}</p>
     </div>

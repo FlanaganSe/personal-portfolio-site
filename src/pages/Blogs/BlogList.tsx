@@ -1,54 +1,23 @@
-import { Suspense, useEffect, useState } from "react";
+import { Suspense } from "react";
 import { SummaryItem } from "./SummaryItem";
-import { IBlog } from "@shared/interfaces/IBlog";
-import { getAllBlogAttributes } from "@utils/getPosts";
+import { metadata } from "@assets/blog_posts/metadata";
 
 export const BlogList = () => {
-  const [blogsss, setBlogsss] = useState([]);
-  const blogs = [
-    {
-      id: "123213345",
-      name: "Some name",
-      description: "Some desc",
-      url: "effective-learning",
-      date: "Dec 13, 2023",
-    },
-    {
-      id: "243534235",
-      name: "Some name2",
-      description: "Some descs",
-      url: "yahoo.com",
-      date: "Dec 13, 2023",
-    },
-  ] as IBlog[];
-
-  useEffect(() => {
-    const fetchBlogs = async () => {
-      try {
-        const blogsRes = await getAllBlogAttributes();
-        setBlogsss(blogsRes);
-      } catch (err) {
-        console.error("Error fetching blog posts: ", err);
-      }
-    };
-
-    fetchBlogs();
-  }, []);
-
-  console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-  console.log("blogsss", blogsss);
+  const sortedBlogsMetaData = metadata.sort((blogA, blogB) => {
+    return blogB.date.getTime() - blogA.date.getTime();
+  });
 
   return (
     <div>
-      <h1>Hi, I'm a blog list!</h1>
+      <h1>Blog Posts</h1>
       <Suspense fallback={"Loading..."}>
-        {blogs.map((blog) => (
+        {sortedBlogsMetaData.map((blog) => (
           <SummaryItem
-            key={blog.id}
-            name={blog.name}
+            key={blog.title}
+            title={blog.title}
             description={blog.description}
             date={blog.date}
-            url={blog.url}
+            path={blog.path}
           />
         ))}
       </Suspense>
