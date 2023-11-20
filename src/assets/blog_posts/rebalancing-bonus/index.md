@@ -36,7 +36,7 @@ A major benefit of this strategy compared to a near 100% equities portfolio is g
 
 - Research: When yields are under 3% it may be better to predict returns slightly lower than current yields
 
-![10 year yield returns](./10y-returns.png)
+![10 year yield returns](/blog-images/10y-returns.png)
 
 #### Volatility:
 

@@ -4,6 +4,8 @@ Health is a highly contentious topic that is full of misinformation. We're all s
 
 This was a pragmatic and research-based attempt to identify habits that are significantly likely to be healthy. The research has then been condensed and reformatted into a more easily readable format.
 
+![Climb Higher](/blog-images/mountain.jpg)
+
 ## Daily Life Habits
 
 - Manipulate your environment to make healthy habits more convenient (e.g. Make it more convenient to get water over soda)

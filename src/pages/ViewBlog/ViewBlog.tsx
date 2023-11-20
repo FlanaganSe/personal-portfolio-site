@@ -4,10 +4,8 @@ import Markdown from "markdown-to-jsx";
 import { useLocation } from "react-router-dom";
 import ErrorPage from "@pages/Error/Error";
 import { getBlogPost } from "@utils/getPosts";
-import { IMetaData } from "@shared/interfaces/IMetaData";
 
 export const ViewBlog = () => {
-  const [metadata, setMetaData] = useState({} as IMetaData);
   const [blog, setBlog] = useState("");
   const location = useLocation();
 
@@ -19,8 +17,7 @@ export const ViewBlog = () => {
     const fetchBlogs = async () => {
       try {
         const blogRes = await getBlogPost(blogPath);
-        setBlog(blogRes.content);
-        setMetaData(blogRes?.metaData || ({} as IMetaData));
+        setBlog(blogRes);
       } catch (err) {
         console.error("Error fetching blog posts: ", err);
       }

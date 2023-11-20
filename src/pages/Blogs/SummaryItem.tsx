@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export const SummaryItem = ({ title, description, path, date }) => {
   return (
     <div className="mb-6">
-      <div className="flex justify-between">
+      <div className="flex justify-between gap-2">
         <h3
           className={`font-semibold text-gray-900 pb-1 ${
             path ? "hover:underline" : ""
