@@ -1,3 +1,5 @@
+# Determining Existence of Rebalancing Bonus
+
 NOTE: This project is on hold but will be returned to at a later date. [Here's](https://github.com/FlanaganSe/Mean-Variance-Project) a github for generating the calculations.
 
 ## Improving returns with the Kelly Criterion

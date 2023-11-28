@@ -1,3 +1,5 @@
+# Strategies for Effective Learning
+
 Information on effective learning strategies. This information comes almost entirely from the book [Make It Stick](https://www.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M/) by Peter Brown and [Improving Students' Learning with Effective Learning Techniques](https://pcl.sitehost.iu.edu/rgoldsto/courses/dunloskyimprovinglearning.pdf), a meta-study by the Association for Psychological Science.
 
 ### Highly Effective Strategies

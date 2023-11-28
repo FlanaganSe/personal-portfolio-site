@@ -17,9 +17,6 @@ export const Sidebar = () => {
         <NavLink to={"resume"} className="pl-8">
           <div>Resume</div>
         </NavLink>
-        <NavLink to={"projects"} className="pl-8">
-          <div>Projects</div>
-        </NavLink>
         <NavLink to={"blog"} className="pl-8">
           <div>Blog</div>
         </NavLink>

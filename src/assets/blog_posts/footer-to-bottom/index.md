@@ -1,3 +1,5 @@
+# Force footer to bottom of page
+
 When searching for a simple method to keep push a footer to the bottom of a page, most approaches I found were either hacky or required hard-coding the height of the filter / main content to work well.
 
 ![Footer not on bottom](/blog-images/footer-not-bottom.png)

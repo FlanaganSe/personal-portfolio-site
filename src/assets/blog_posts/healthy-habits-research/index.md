@@ -1,4 +1,4 @@
-## Healthy Habits
+# Healthy Habits
 
 Health is a highly contentious topic that is full of misinformation. We're all susceptible to the placebo effect, especially when it comes to health products products, strategies, and mindsets.
 
