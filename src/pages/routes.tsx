@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import ErrorPage from "./Error/Error";
 import { About } from "./About/About";
-import { Root } from "./Root/Root";
+import { Root } from "./Root";
 import { Resume } from "./Resume/Resume";
 import { BlogList } from "./Blogs/BlogList";
 import { ViewBlog } from "./ViewBlog/ViewBlog";
