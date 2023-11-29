@@ -11,6 +11,7 @@ This is an easily re-usable portfolio built from scratch with minimal dependenci
 #### Additional dependencies:
 
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx)
+- [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
 
 Running:
 
