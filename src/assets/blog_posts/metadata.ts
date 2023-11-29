@@ -30,4 +30,12 @@ export const metadata = [
     author: "Sean Flanagan",
     description: "Improving investment returns with the Kelly Criterion",
   },
+  {
+    path: "/blog/solo-travel-asia",
+    title: "Solo Traveling Asia Retrospective and Tips",
+    date: new Date("2023-10-29"),
+    author: "Sean Flanagan",
+    description:
+      "A reflection on my trip and some tips for other solo travelers",
+  },
 ] as IMetaData[];
