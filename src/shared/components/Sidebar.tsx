@@ -6,8 +6,8 @@ import LinkedInIcon from "@assets/images/linkedin.svg";
 
 export const Sidebar = () => {
   return (
-    <div className="border-r-2 flex flex-col justify-between border-dotted h-screen py-10">
-      <ul className={"flex flex-col text-gray-500 space-y-4 text-lg"}>
+    <div className="border-r-2 flex flex-row sm:flex-col items-center justify-between border-dotted h-screen py-10">
+      <ul className={"flex sm:flex-col text-gray-500 gap-2 text-lg"}>
         <NavLink to={"/"} className="m-8">
           <img src={SFLogo} alt="Sean Flanagan logo" className={"size-16"} />
         </NavLink>

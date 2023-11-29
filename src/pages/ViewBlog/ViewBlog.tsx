@@ -32,7 +32,7 @@ export const ViewBlog = () => {
 
   return (
     <div>
-      <article className="prose lg:prose-l">
+      <article className="prose lg:prose-l prose-li:m-0">
         <Markdown>{blog}</Markdown>
       </article>
     </div>
