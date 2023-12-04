@@ -2,11 +2,9 @@
 
 ![Kyoto](/blog-images/kyoto.jpeg)
 
-I recently got back from the capstone of my sabbatical, a solo trip to East Asia. In September, for my very first long term solo trip, I booked a one way ticket to Hong Kong without any itinerary.
+I recently got back from the capstone of my sabbatical, a solo trip to East Asia. In September, for my very first long term solo trip, I booked a one way ticket to Hong Kong with one small backpack and no itinerary.
 
-For years I've flirted with the dream of becoming a 'digital nomad'. Well, not forever, but it sounds compelling to experience for a few years. I've long been a fan of [Pieter Levels](https://twitter.com/levelsio?ref=levels.io) and have been a regular peruser of https://nomadlist.com.
-
-I felt priveledged to both have the means, and for the success of the COVID vaccine to allow countries to start opening up again.
+For years I've flirted with the dream of becoming a 'digital nomad'. Well, not forever, but it sounds compelling to experience for a few years. I've long been a fan of [Pieter Levels](https://twitter.com/levelsio?ref=levels.io) and have been a regular peruser of https://nomadlist.com. Very quickly after deciding to take a sabbatical I realized this would be the perfect time. I was in an incredibly privedged situation by having the means to travel, the COVID vaccine allowing international travel again, and months of freedom.
 
 What followed may have been the most unique, inspiring trip in my life as I went from Hong Kong to Taipei and then throughout Japan.
 
@@ -43,3 +41,5 @@ ChatGPT may have been the absolute best resource for finding things to do. It's 
 ![HK Skyline](/blog-images/lantau_island.jpeg)
 
 ![Minato](/blog-images/minato.jpeg)
+
+-Work in progress - Last updated Dec 3rd.
