@@ -4,6 +4,10 @@ import GithubIcon from "@assets/images/github.svg";
 import MailIcon from "@assets/images/mail.svg";
 import LinkedInIcon from "@assets/images/linkedin.svg";
 
+const classes = {
+  icons: "size-6 transition hover:scale-110",
+};
+
 export const Sidebar = () => {
   return (
     <div className="border-r-2 flex flex-row sm:flex-col items-center justify-between border-dotted h-screen py-10">
@@ -24,13 +28,25 @@ export const Sidebar = () => {
 
       <ul className="flex flex-row justify-between mx-2">
         <a href="https://github.com/FlanaganSe">
-          <img src={GithubIcon} alt="Link to github" className={"size-6"} />
+          <img
+            src={GithubIcon}
+            alt="Link to github"
+            className={classes.icons}
+          />
         </a>
         <a href="mailto:flanagansean@gmail.com">
-          <img src={MailIcon} alt="Link to send email" className={"size-6"} />
+          <img
+            src={MailIcon}
+            alt="Link to send email"
+            className={classes.icons}
+          />
         </a>
         <a href="https://www.linkedin.com/in/sean-flanagan-b25271b1/">
-          <img src={LinkedInIcon} alt="Link to LinkedIn" className={"size-6"} />
+          <img
+            src={LinkedInIcon}
+            alt="Link to LinkedIn"
+            className={classes.icons}
+          />
         </a>
       </ul>
     </div>
