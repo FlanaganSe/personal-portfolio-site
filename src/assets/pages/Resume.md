@@ -11,7 +11,7 @@ Interested in discussing opportunities or just want to chat? [Contact me!](mailt
 
 #### Livegistics Inc | Full Stack Software Developer
 
-_July 2021 &mdash; July 2023_ | Detroit, MI
+_July 2021 - July 2023_ | Detroit, MI
 
 - Engineered a greenfielded web platform for construction managers, integrating React, TypeScript, PostgreSQL, MUI, and Google Firestore to enhance project management efficiency.
 - Developed a React Native application featuring real time navigation and GPS tracking for truck drivers
@@ -20,14 +20,14 @@ _July 2021 &mdash; July 2023_ | Detroit, MI
 
 #### Laptologist LLC | Developer, Founder
 
-_Sept 2016 &mdash; May 2021_ &nbsp; | &nbsp; Ann Arbor, MI
+_Sept 2016 - May 2021_ &nbsp; | &nbsp; Ann Arbor, MI
 
 - Launched an online review, benchmarking, and analysis company for emerging tech products that assisted tens-of-thousands of individuals and directly drove over $5 million in sales
 - Developed a WordPress website using SiteGround that achieved thousands of monthly visitors and leveraged social media to enhance engagement and expand customer reach
 
 #### UM Computer Showcase | Tech and Sales Consultant
 
-_Sept 2017 &mdash; May 2018_ &nbsp; | &nbsp; Ann Arbor, MI
+_Sept 2017 - May 2018_ &nbsp; | &nbsp; Ann Arbor, MI
 
 - Assisted students in helping repair, diagnosing technical issues, handling distrubtion of online sales, and provided efficient point-to-point sales.
 
@@ -47,9 +47,9 @@ Github Repository: https://github.com/FlanaganSe/twitter-clone
 
 ### Education
 
-Bachelors of Science in Information Science
+#### Bachelor's of Science in Information Science
 
-- University of Michigan, Ann Arbor &nbsp; | &nbsp; _2015 &mdash; 2019_
+- University of Michigan, Ann Arbor &nbsp; | &nbsp; _2015 - 2019_
 - Specialization in Information Analysis
 
 ### Skills

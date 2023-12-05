@@ -1,4 +1,4 @@
-# Hi, I'm Sean Flanagan!
+# 👋 Hi, I'm Sean Flanagan!
 
 Optimist who likes software, chess, Michigan sports 〽 (Go blue!), distance running, skiing, and travel (so much so that I went on a recent sabbatical and traveled [East Asia](/blog/solo-travel-asia))!
 
@@ -9,3 +9,18 @@ Prior to diving deep into software I ran my own company, Laptologist LLC. Throug
 I'd love to chat about what I can bring to the table so [contact me](mailto:flanagansean19@gmail.com)!
 
 ---
+
+### Blog Highlights
+
+- Read about my trip [backpacking Asia](/blog/solo-travel-asia)
+- Use the rebalancing bonus to [improve portfolio returns](/blog/rebalancing-bonus)
+
+### Project Highlights:
+
+- Created a full stack [twitter clone](https://github.com/FlanaganSe/twitter-clone)
+
+### Employment Highlights:
+
+- At Livegistics there are two projects I'm most proud of.
+- - First, the completion of a feature allowing large scale data imports from client FTP servers. The hundreds-of-thousands of rows from various files had to be able to be imported, massaged, and inserted into a postgres database.
+- - Second, a complete overhaul of the react native app now in use by hundreds of drivers. I had to take ownership of the project and add hundreds of new features that were planned out over several months.
