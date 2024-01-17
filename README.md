@@ -1,6 +1,6 @@
 # Resume Portfolio Site
 
-This is an easily re-usable portfolio built from scratch with minimal dependencies.
+This is a custom built and re-usable portfolio built with minimal dependencies. Project pages and the blog post are handled via markdown files.
 
 ### Built with:
 
@@ -24,4 +24,4 @@ npm run dev
 
 ### Deployment
 
-Deployment is achieved through [AWS Amiplfiy](https://aws.amazon.com/amplify/)
+Deployment is handled through [AWS Amiplfiy](https://aws.amazon.com/amplify/)
