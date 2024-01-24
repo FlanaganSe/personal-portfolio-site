@@ -22,5 +22,5 @@ I'd love to chat about what I can bring to the table so [contact me](mailto:flan
 ### Employment Highlights:
 
 - At Livegistics there are two projects I'm most proud of.
-- - First, the completion of a feature allowing large scale data imports from client FTP servers. The hundreds-of-thousands of rows from various files had to be able to be imported, massaged, and inserted into a postgres database.
-- - Second, a complete overhaul of the react native app now in use by hundreds of drivers. I had to take ownership of the project and add hundreds of new features that were planned out over several months.
+  - First, the completion of a feature allowing large scale data imports from client FTP servers. The hundreds-of-thousands of rows from various files had to be able to be imported, massaged, and inserted into a postgres database.
+  - Second, a complete overhaul of the react native app now in use by hundreds of drivers. I had to take ownership of the project and add hundreds of new features that were planned out over several months.
