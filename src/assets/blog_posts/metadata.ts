@@ -33,7 +33,7 @@ export const metadata = [
   {
     path: "/blog/solo-travel-asia",
     title: "Solo Traveling Asia Retrospective and Tips",
-    date: new Date("2023-10-29"),
+    date: new Date("2023-11-29"),
     author: "Sean Flanagan",
     description:
       "A reflection on my trip and some tips for other solo travelers",

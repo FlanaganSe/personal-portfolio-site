@@ -1,9 +1,11 @@
 # Resume
 
+[![name](link to image on GH)](link to your URL)
+
 - Email: flanagansean19@gmail.com
 - Location: Ann Arbor, MI
-- ![My Github](https://img.shields.io/badge/-FlanaganSe-000?style=flat-square&logo=github&logoColor=azure&color=181717)
-- ![My Linkedin](https://img.shields.io/badge/-Sean_Flanagan-000?style=flat-square&logo=linkedin&logoColor=azure&color=0A66C2)
+- [![My Github](https://img.shields.io/badge/-FlanaganSe-000?style=flat-square&logo=github&logoColor=azure&color=181717)](https://github.com/FlanaganSe)
+- [![My Linkedin](https://img.shields.io/badge/-Sean_Flanagan-000?style=flat-square&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/sean-flanagan-b25271b1/)
 
 Interested in discussing opportunities or just want to chat? [Contact me!](mailto:flanagansean19@gmail.com)
 
