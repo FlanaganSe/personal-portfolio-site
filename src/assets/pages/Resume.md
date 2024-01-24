@@ -15,10 +15,15 @@ Interested in discussing opportunities or just want to chat? [Contact me!](mailt
 
 _July 2021 - July 2023_ | Detroit, MI
 
-- Engineered a greenfielded web platform for construction managers, integrating React, TypeScript, PostgreSQL, MUI, and Google Firestore to enhance project management efficiency.
-- Developed a React Native application featuring real time navigation and GPS tracking for truck drivers
-- Migrated Firestore NoSQL database to Google BigQuery, and designed real-time dashboards in Google Data Studio to create internal and client analytics.
-- Architected an event-driven solution for importing/exporting customer data from external FTP servers, transforming and managing hundreds-of-thousand data rows.
+- Lead development with a team of five on a greenfield web platform for construction managers, utilizing React, NodeJS, Redux, TypeScript, PostgreSQL, MUI, and Google Firestore to enhance project management efficiency
+
+- Improved user accessibility and responsive web principles by migrating from MUI4 to MUI 5 and refactoring component library to incorporate CSS Grid
+  Refactored React Native application to automate build process, improve build times by 20%, update dependencies, and reduced complexity of state management by integrating MobX
+
+- Integrated Mapbox into React Native app to provide real time navigation and GPS tracking for hundreds of drivers in production
+- Created automatic imports of Firestore NoSQL data to Google BigQuery, and designed real-time dashboards in Google Data Studio to create internal and client analytics
+- Migrated backend routes from Knex.JS to Prisma, and improved code safety via auto-generating documentation with OpenAI and Swagger
+- Architected an event-driven solution for importing/exporting customer data from external FTP servers that required the transformation and insertion of hundreds-of-thousands of rows of data
 
 #### Laptologist LLC | Developer, Founder
 
@@ -56,7 +61,7 @@ Github Repository: https://github.com/FlanaganSe/twitter-clone
 
 ### Skills
 
-- **Languages**: Javascript, CSS3, Python, SQL
-- **Frameworks**: Typescript, React Native, NodeJS, Express, Google Firebase, PostgreSQL
+- **Languages**: JavaScript, React, React Native, Python, SQL, HTML/CSS
+- **Frameworks**: Typescript, NodeJS, Express, Google Firebase, Jest, NextJS, PostgreSQL, REST, Tailwind, MUI
 - **Deployment**: Github Actions, CircleCI, AWS
-- **Tools:** Git, GCP, Swagger, Docker, Git, CircleCI, New Relic
+- **Tools:** GCP, Swagger, Docker, Git, CircleCI, New Relic
