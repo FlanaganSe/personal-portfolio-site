@@ -6,8 +6,6 @@ Besides travel I'm an energetic full stack Javascript developer with proficiency
 
 Prior to diving deep into software I ran my own company, Laptologist LLC. Through deep research and leveraging social media channels I directly drove over $5 million in sales. Unfortunately I grew disinterested in the marketing world but it timed perfectly with a rise of interest in the technicalities of software engineering. Above all the experience led me to gain a deeper aptitude and appreciation for the challenges of entrepreneurship.
 
-I'd love to chat about what I can bring to the table so [contact me](mailto:flanagansean19@gmail.com)!
-
 ---
 
 ### Blog Highlights

@@ -13,7 +13,7 @@ export default {
         serif: [],
       },
       colors: {
-        background: "#F4F4F4",
+        background: "#f4f3f2",
         primary: {
           50: "#feffe7",
           100: "#fbffc1",
