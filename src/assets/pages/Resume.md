@@ -28,7 +28,7 @@ _July 2021 - July 2023_ | Detroit, MI
 _Sept 2016 - May 2021_ &nbsp; | &nbsp; Ann Arbor, MI
 
 - Launched an online review, benchmarking, and analysis company for emerging tech products that assisted tens-of-thousands of individuals and directly drove over $5 million in sales
-- Developed a WordPress website using SiteGround that achieved thousands of monthly visitors and leveraged social media to enhance engagement and expand customer reach
+- Developed a WordPress websites using SiteGround that achieved thousands of monthly visitors and leveraged social media to enhance engagement and expand customer reach
 
 #### UM Computer Showcase | Tech and Sales Consultant
 
