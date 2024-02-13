@@ -29,6 +29,9 @@ export const Sidebar = () => {
           <NavLink to={"blog"}>
             <div className="hover:underline transition">Blog</div>
           </NavLink>
+          <NavLink to={"now"}>
+            <div className="hover:underline transition">Now</div>
+          </NavLink>
         </nav>
 
         <ul className="flex flex-row justify-end gap-4">

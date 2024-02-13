@@ -5,6 +5,7 @@ import { Root } from "./Root";
 import { Resume } from "./Resume/Resume";
 import { BlogList } from "./Blogs/BlogList";
 import { ViewBlog } from "./ViewBlog/ViewBlog";
+import { NowPage } from "./Now/Now.page";
 
 export const router = createBrowserRouter([
   {
@@ -19,6 +20,10 @@ export const router = createBrowserRouter([
       {
         path: "/resume",
         element: <Resume />,
+      },
+      {
+        path: "now",
+        element: <NowPage />,
       },
       {
         path: "blog",
