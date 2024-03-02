@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
-import SFLogo from "@assets/images/sf-logo.png";
+// import SFLogo from "@assets/images/sf-logo.png";
+import SFLogo from "@assets/images/sf_casual_headshot.jpeg";
 import GithubIcon from "@assets/images/github.svg";
 import MailIcon from "@assets/images/mail.svg";
 import LinkedInIcon from "@assets/images/linkedin.svg";
@@ -15,7 +16,9 @@ export const Sidebar = () => {
         <img
           src={SFLogo}
           alt="Sean Flanagan logo"
-          className={"size-20 hover:scale-105 transition"}
+          className={
+            "size-28 hover:scale-105 transition rounded-full border-stone-100 border-2"
+          }
         />
       </NavLink>
       <div className="h-full flex flex-col gap-4 justify-between md:items-center">

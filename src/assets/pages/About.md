@@ -13,10 +13,6 @@ Prior to diving deep into software I ran my own company, Laptologist LLC. Throug
 - Read about my trip [backpacking Asia](/blog/solo-travel-asia)
 - Use the rebalancing bonus to [improve portfolio returns](/blog/rebalancing-bonus)
 
-### Project Highlights:
-
-- Created a full stack [twitter clone](https://github.com/FlanaganSe/twitter-clone)
-
 ### Employment Highlights:
 
 - At Livegistics there are two projects I'm most proud of.
