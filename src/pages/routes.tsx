@@ -26,6 +26,10 @@ export const router = createBrowserRouter([
         element: <NowPage />,
       },
       {
+        path: "now/:nowId",
+        element: <NowPage />,
+      },
+      {
         path: "blog",
         element: <BlogList />,
       },

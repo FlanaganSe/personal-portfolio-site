@@ -2,34 +2,29 @@
 
 This is [a now page](https://nownownow.com/about) inspired by the amazing [Derek Sivers](https://sive.rs/now). If you ever need inspiration check him out!
 
-Updated: February 13th, 2024. Hoping to update this every month and list past versions at the bottom.
+Updated: Mar 3rd, 2024.
 
 ### Readings:
 
-- Currently reading [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655). The book is a bit older, which has been easy to notice as the lack of comment on modern frameworks. However that may be a positive as its helped to better see the recent history of software systems. Its been easily readable and has been a perfect primer.
+- Currently reading [Web Scalability for Startup Engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655). Wrote about this in the last now!
 
-I was initially planning to read Designing Distributed Systems after having purchased it a few months ago. However I made a mistake and closed the amazon account for which I had purchased the eBook... Note to self, if you have two accounts and are trying to consolidate them, double check what will be lost.
-
-- Also re-read the short story [A Pail of Air](https://www.gutenberg.org/files/51461/51461-h/51461-h.htm) by Fritz Leiber and it was just as amazing as when I last read it.
+- Slowly working through [A Common-Sense Guide to Data Structures & Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680502441). Probably going to take a while but its been good!
 
 ### Travel:
 
-- Got to visit some friends for the super bowl in Columbus OH. Great city as always, shame the Lions were't playing though :(
-
-Now currently trying to find the polaroid from the weekend...
+- Hoping to travel to Cleveland next month for the [Apr 8 2024 Solar Eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/) assuming the weather isn't looking dreadful!
 
 ### Study:
 
-- Currently studying Calculus for future plans of pursuing a masters in CS, and working on React Native projects. Its been fun! (Well, React Native has been. Can't say the same for calculus)
-
-### Interviewing:
-
-Currently interviewing with half a dozen copmanies over the past few weeks. Its been okay. It stressed me out at first but the stress went away as I started enjoying studying again.
+- Soon to start studying discrete math 2 and more formally studying data structures & algorithms! I've studied DSA a dozen times informally but it'll be nice to iron our knowledge more and identify gaps with more formal study.
 
 ### Running:
 
-Fell off of running over the past few weeks after having previously been consistent with 40+ miles a week. Hard to get back to it when its so cold out but that seems to be turning around and I'm looking forward to fall
+[Strava Link](https://www.strava.com/athletes/67717273), although can't promise I'll get back into a routine of uploading...
+
+- Shoutout Punxsutawney Phil for predicting an early spring as the weather has really turned around. Getting outside has been beautiful and hopefully getting back on the routine!
+- Was initially going to run the Capital City half marathon in columbus but I think friends and I are diverting plans to attend the [2024 NFL Draft](https://en.wikipedia.org/wiki/2024_NFL_draft) in Detroit that weekend
 
 Previous nownownow's:
 
-- None, yet. This is the first!
+- [/feb_13_2024](/now/feb_13_2024)
