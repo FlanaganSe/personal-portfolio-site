@@ -14,6 +14,10 @@ Updated: Mar 3rd, 2024.
 
 - Hoping to travel to Cleveland next month for the [Apr 8 2024 Solar Eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/) assuming the weather isn't looking dreadful!
 
+### Flying:
+
+- Registered an appointment to get [First Class Medical](https://www.faa.gov/ame_guide/standards) in hopes of taking an introductory flying class this summer :)
+
 ### Study:
 
 - Soon to start studying discrete math 2 and more formally studying data structures & algorithms! I've studied DSA a dozen times informally but it'll be nice to iron our knowledge more and identify gaps with more formal study.
