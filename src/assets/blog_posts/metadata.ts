@@ -38,4 +38,12 @@ export const metadata = [
     description:
       "A reflection on my trip and some tips for other solo travelers",
   },
+  // {
+  //   path: "/blog/walkingpad-p1",
+  //   title: "WalkingPad P1 Review & Repair",
+  //   date: new Date("2024-03-04"),
+  //   author: "Sean Flanagan",
+  //   description:
+  //     "A review of the KingSmith WalkingPad P1",
+  // },
 ] as IMetaData[];
