@@ -18,10 +18,6 @@ Updated: Mar 3rd, 2024.
 
 - Registered an appointment to get [First Class Medical](https://www.faa.gov/ame_guide/standards) in hopes of taking an introductory flying class this summer :)
 
-### Study:
-
-- Soon to start studying discrete math 2 and more formally studying data structures & algorithms! I've studied DSA a dozen times informally but it'll be nice to iron our knowledge more and identify gaps with more formal study.
-
 ### Running:
 
 [Strava Link](https://www.strava.com/athletes/67717273), although can't promise I'll get back into a routine of uploading...
