@@ -1,17 +1,6 @@
 # Resume Portfolio Site
 
-This is a custom built and re-usable portfolio built with minimal dependencies. Project pages and the blog post are handled via markdown files.
-
-### Built with:
-
-- Tailwind CSS
-- Typescript
-- React
-
-#### Additional dependencies:
-
-- [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx)
-- [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
+A relatively clean personal portfolio. Project pages and the blog post are built from markdown files.
 
 Running:
 
