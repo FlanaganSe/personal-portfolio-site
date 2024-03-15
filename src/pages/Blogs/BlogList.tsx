@@ -10,6 +10,12 @@ export const BlogList = () => {
   return (
     <div>
       <h1>Blog Posts</h1>
+      <p className="my-8">
+        No technical blogs, yet. Hopefully one day. It would be good for
+        practicing technical writing but I would prefer to write important work
+        only if I felt I were a top tier expert on the subject I'm writing
+        about.
+      </p>
       <Suspense fallback={"Loading..."}>
         {sortedBlogsMetaData.map((blog) => (
           <SummaryItem
