@@ -38,8 +38,8 @@ ChatGPT may have been the absolute best resource for finding things to do. It's 
 
 ![Lantau Island](/blog-images/lantau_island.jpeg)
 
-![HK Skyline](/blog-images/lantau_island.jpeg)
+![HK Skyline](/blog-images/HK_skyline.jpeg)
 
 ![Minato](/blog-images/minato.jpeg)
 
--Work in progress - Last updated Dec 3rd.
+\*Work in progress - Last updated Dec 3rd.

@@ -9,14 +9,6 @@ export const metadata = [
     description: "Researching strategies for more effective learning",
   },
   {
-    path: "/blog/footer-to-bottom",
-    title: "Forcing the footer to the bottom of the page",
-    date: new Date("2021-09-19"),
-    author: "Sean Flanagan",
-    description:
-      "A flexible approach for pushing the footer to the bottom of the page",
-  },
-  {
     path: "/blog/healthy-habits-research",
     title: "Categorizing Healthy Habits",
     date: new Date("2021-08-20"),
